@@ -1,0 +1,5 @@
+step 1:=> command to bash terminal :- vim file_name  e.g. vim practice02.txt
+step 2:=> for insertion on terminal or adding content to terminal :- press 'i' button
+step 3:=> for exiting to insertion mode  :- press 'esc' 
+step 4:=> for saving these content file :- press ':wq!' ( must be in small letter)
+NOTES :=> After pressing 'esc' then directly press or type " :wq! " for saving content in file.
